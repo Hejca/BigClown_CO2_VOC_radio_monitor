@@ -1,21 +1,8 @@
 <a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
 
-# Firmware Skeleton for BigClown Core Module
+# Firmware for CO2 VOC monitor
 
-[![Travis](https://img.shields.io/travis/bigclownlabs/bcf-skeleton/master.svg)](https://travis-ci.org/bigclownlabs/bcf-skeleton)
-[![Release](https://img.shields.io/github/release/bigclownlabs/bcf-skeleton.svg)](https://github.com/bigclownlabs/bcf-skeleton/releases)
-[![License](https://img.shields.io/github/license/bigclownlabs/bcf-skeleton.svg)](https://github.com/bigclownlabs/bcf-skeleton/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
-
-This repository contains firmware skeleton for [Core Module](https://shop.bigclown.com/core-module).
-
-If you want to get more information about Core Module, firmware and how to work with it, please follow this link:
-
-**https://www.bigclown.com/doc/firmware/basic-overview/**
-
-User's application code (business logic) goes into `app/application.c`.
-The default content works as a *Hello World* example.
-When flashed into Core Module, it toggles LED state with each button press.
+Firmware to extend CO2monitor kit about VOC measurement. The VOC_LP tag is used instead of barometric tag.  
 
 ## License
 
