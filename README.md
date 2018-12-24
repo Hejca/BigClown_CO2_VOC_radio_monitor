@@ -2,7 +2,7 @@
 
 # Firmware for CO2 VOC monitor
 
-Firmware to extend CO2monitor kit about VOC measurement. The VOC_LP tag is used instead of barometric tag.  
+Firmware to extend CO2monitor kit with the VOC measurement. The VOC_LP tag is used instead of barometric tag.  
 
 ## License
 
