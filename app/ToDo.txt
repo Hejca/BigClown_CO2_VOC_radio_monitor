@@ -1,0 +1,12 @@
+To DO
+
+ToDo list of changes for the CO2 VOC monitor
+
+1. change VOC_LP tag timing. Basic interval 30 s (applied v 0.1)
+2. change "TVOC change update value" based on practise - normal level 0 - 65 ppb => set to 4 ppb (applied v 0.1)
+3. Think about CO2 timing (no change set to 10 minutes, v 0.1)
+4. try add led blinking when temperature is measured to check basic measuring intervals
+
+
+NEW BRANCH for variation in CO2 and VOC calibration (background setting)
++ ERROR and WARNING handling
